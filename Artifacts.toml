@@ -1,0 +1,113 @@
+[[ATK]]
+arch = "x86_64"
+git-tree-sha1 = "2196dde9a171657add4b04bf5800f67e6554a15d"
+libc = "glibc"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "02f7f371c132d8039de4e665243ebdf795b93db25c9dfeead986a738a2ce9f2b"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.x86_64-linux-gnu.tar.gz"
+[[ATK]]
+arch = "armv7l"
+git-tree-sha1 = "984fe1d95a6882aaf6c5ce56e686bb2ad9f64a88"
+libc = "musl"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "05762fc9b469b7d3fd385c8411f9e73ed2b20f9361c0b33d9236d3b34ac1cb2a"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.arm-linux-musleabihf.tar.gz"
+[[ATK]]
+arch = "x86_64"
+git-tree-sha1 = "19314f901590ff67cbe7b015bcd342f52e0b855f"
+os = "macos"
+
+    [[ATK.download]]
+    sha256 = "2d9a18084f45aa1106d75fe0b86a9bbeffa2305f4015aa36619f1f7f0a0c499f"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.x86_64-apple-darwin14.tar.gz"
+[[ATK]]
+arch = "x86_64"
+git-tree-sha1 = "f1b17b63bb7e2991bf490653bd345517cb8cbb0c"
+os = "freebsd"
+
+    [[ATK.download]]
+    sha256 = "501bb71640a32d1dfcc5ef81a4d819cad85be63efd3111b167c13587617c64ac"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[ATK]]
+arch = "i686"
+git-tree-sha1 = "d2a1f2d79a04c23e02d4844ad5821fb575747aa7"
+libc = "glibc"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "9895d77a291991e36d243c215557f86e708d7adf9b21af85f5f0a0b8561e4fcd"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.i686-linux-gnu.tar.gz"
+[[ATK]]
+arch = "i686"
+git-tree-sha1 = "2ddceb82172a4b443059250d62650e66de95b946"
+os = "windows"
+
+    [[ATK.download]]
+    sha256 = "800d174648e4f991ce058cce027bd795fd93a573a9fca39a4581547c03a84def"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.i686-w64-mingw32.tar.gz"
+[[ATK]]
+arch = "i686"
+git-tree-sha1 = "75d66e6ce8cb42d7ea8b9c97f5bc2bab4460da6d"
+libc = "musl"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "c49016c8c1acd885c5bb26dc26df38bca5b266a3ce9ebcde1e809c32a59186df"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.i686-linux-musl.tar.gz"
+[[ATK]]
+arch = "aarch64"
+git-tree-sha1 = "0b80c186f1d9991f522a8260edd129d3251d1809"
+libc = "musl"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "eae3a294be32335d0ed5ad619ac9a3cc1cfc553a76f7ccc344220bf31926ed76"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.aarch64-linux-musl.tar.gz"
+[[ATK]]
+arch = "aarch64"
+git-tree-sha1 = "c175c78e5aa707cdcb6ec04e25b255d8a8079b91"
+libc = "glibc"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "1441202656d0cb97c1762db383b0343f357474376dae24dbcdbc760e2947c96b"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.aarch64-linux-gnu.tar.gz"
+[[ATK]]
+arch = "powerpc64le"
+git-tree-sha1 = "456ca77928e943323a5843e175c7763ef7dfb87b"
+libc = "glibc"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "629eacdcb1b9e7fda1be8e285411293de24dbb14c5670a1ef765dc2b315155c6"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.powerpc64le-linux-gnu.tar.gz"
+[[ATK]]
+arch = "armv7l"
+git-tree-sha1 = "79ac33128156b6225aab623a19a38fc650ab9921"
+libc = "glibc"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "365437bb360b748b661eaa1e436a66f0c1beaf70d49697806dfa125efc45cf9f"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.arm-linux-gnueabihf.tar.gz"
+[[ATK]]
+arch = "x86_64"
+git-tree-sha1 = "c381b0d2e1951a7fd9a6bb195489908e1d87614e"
+os = "windows"
+
+    [[ATK.download]]
+    sha256 = "16675e47db05e59e7d5f9069d45698f72183fa94863b41a2046a28a3bfb655c6"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.x86_64-w64-mingw32.tar.gz"
+[[ATK]]
+arch = "x86_64"
+git-tree-sha1 = "6f68ca366b1485aa1efa23b1e18bb43b31297e79"
+libc = "musl"
+os = "linux"
+
+    [[ATK.download]]
+    sha256 = "118d8ce224e0f8e922842932f76dfba524a38558482a5b85396a51a41240fcc1"
+    url = "https://github.com/JuliaBinaryWrappers/ATK_jll.jl/releases/download/ATK-v2.34.1+0/ATK.v2.34.1.x86_64-linux-musl.tar.gz"
